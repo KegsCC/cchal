@@ -1,0 +1,9 @@
+[project]
+name = "cchal"
+version = "0.1.0"
+description = "Coding challenge completions"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "cryptography>=50.0.2",
+]
